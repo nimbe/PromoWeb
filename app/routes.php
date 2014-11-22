@@ -15,3 +15,7 @@ Route::get('/', function()
 {
 	return View::make('hello');
 });
+
+Route::model('ads','Ad');
+
+Route::resource("ads", "AdsController");

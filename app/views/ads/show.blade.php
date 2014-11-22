@@ -1,0 +1,1 @@
+/home/nimbe/Proyectos/PromoWeb/app/views/ads/show.blade.php
